@@ -1,0 +1,40 @@
+head,
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, red, yellow);
+
+
+}
+
+img {
+    width: 175px;
+    border-radius: 50%;
+}
+
+h1 {
+
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.line{
+width: 112px;
+height: 47px;
+border-bottom: 1px solid black;
+position: absolute;
+}
+#first{
+    background-color: royalblue;
+}
+#second{
+    background-color: red;
+}
+#swimming{
+    background-color: lawngreen;
+    
+}
